@@ -1,0 +1,176 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+#pane1{
+  -fx-background-color: linear-gradient(from 25px 25px to 100px 100px, #dc143c, #32cd32);
+-fx-background-image: url("../images/img5.jpg");
+    -fx-background-repeat: no-repeat;
+  
+    -fx-background-size:cover;
+
+}
+
+#t1{
+	-fx-font-size:80px Time New Roman;
+	
+
+	    -fx-fill: crimson;
+	
+    -fx-stroke: black;
+    -fx-stroke-width: 1;
+	
+	
+	
+}
+
+.btn_primary{
+	-fx-font-size:20px;
+	-fx-padding:10px 50px;
+	-fx-background-radius: 30;
+	-fx-background-color:crimson;
+		-fx-text-fill:white;
+	-fx-cursor:hand ;
+	-fx-border-width:2;
+	-fx-border-color:white;
+	-fx-border-radius:30;
+	
+	
+	
+}
+
+.btn_primary:hover{
+			-fx-background-color:white;
+	-fx-text-fill:crimson;
+	-fx-stroke:1;
+		-fx-border-color:crimson;
+	
+	
+}
+.btn_Sound{
+		-fx-background-color:transparent;
+		-fx-cursor:hand ;
+}
+
+.game{
+	  -fx-background-color: linear-gradient(from 25px 25px to 100px 100px, #dc143c, #32cd32);
+-fx-background-image: url("../images/img5.jpg");
+    -fx-background-repeat: no-repeat;
+  
+    -fx-background-size:cover;
+	
+
+}
+
+#help{
+	
+	 -fx-background-color: linear-gradient(from 25px 25px to 100px 100px, #dc143c, #32cd32);
+-fx-background-image: url("../images/img5.jpg");
+    -fx-background-repeat: no-repeat;
+  
+    -fx-background-size:cover;
+}
+#about{
+	
+	 -fx-background-color: linear-gradient(from 25px 25px to 100px 100px, #dc143c, #32cd32);
+-fx-background-image: url("../images/img5.jpg");
+    -fx-background-repeat: no-repeat;
+  
+    -fx-background-size:cover;
+}
+.h_main{
+		-fx-font-size:60px Tahoma;
+	
+
+	    -fx-fill: crimson;
+    -fx-stroke: black;
+    -fx-stroke-width: 1;
+}
+.guideLines{
+		-fx-font-size:20px Tahoma;
+	
+
+	    -fx-fill: #FFFFFF;
+    
+}
+
+
+
+.profile_name{
+	-fx-font-size:30px Tahoma;
+	
+ -fx-font-style: italic;
+	    -fx-fill: black;
+	    -fx-font-weight:bold;
+	    -fx-padding:20 ;
+}
+.profile_desc{
+	-fx-font-size:15px Tahoma;
+
+	    -fx-fill: crimson;
+	     -fx-padding:20 ;
+}
+.links{
+	-fx-font-size:15px Tahoma;
+	     -fx-text-fill: black;
+	    -fx-border-style:none;
+	    -fx-border-color:tranparent;
+}
+.links:visited{
+	-fx-underline: false;
+}
+.links:hover{
+	-fx-underline: true;
+	-fx-text-fill: crimson;
+}
+
+.profile{
+	
+	-fx-background-radius: 50;
+}
+.h_Secondary{
+		-fx-font-size:60px;
+	  -fx-fill: crimson;
+}
+.score_label{
+	-fx-font-size:30px Tahoma;
+	
+ -fx-font-style: italic;
+
+	    -fx-font-weight:bold;
+	    -fx-fill:#B83B5E;
+   
+   
+}
+
+.result{
+		-fx-font-size:40px Tahoma;	
+ -fx-font-style: italic;
+   -fx-fill: black;
+	    -fx-font-weight:bold;
+}
+.finalScore{
+			-fx-font-size:40px Tahoma;	
+ -fx-font-style: italic;
+
+	    -fx-font-weight:bold;
+	     -fx-fill:crimson;
+}
+
+.paddle{
+		    -fx-fill:linear-gradient(to left bottom, #dc1b1b, #e11a1a, #e61818, #eb1617, #f01415);
+		  
+		    -fx-background-radius: 20;
+}
+
+#t1{
+	-fx-font-family:Mochiy Pop One;
+}
+.btn_Level{
+				-fx-font-size:22px ;	
+ -fx-font-style: italic ;
+	 -fx-padding:70 60 ;
+	  -fx-font-weight:bold;
+	 -fx-background-image: url("../images/level.png");
+	 -fx-text-fill:white;
+	 -fx-background-size:cover;
+	 -fx-background-repeat:no-repeat;
+	 -fx-cursor:hand ;
+}
