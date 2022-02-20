@@ -26,8 +26,7 @@ This game is developed in Java and JavaFX.
 ![Main Screen](https://github.com/Shahab-Malikk/BreakOut-Game-Java-/blob/main/screenshots/p9.jpg?raw=true)
 ### Level 3
 ![Main Screen](https://github.com/Shahab-Malikk/BreakOut-Game-Java-/blob/main/screenshots/p10.jpg?raw=true)
-### Team Info
-![Main Screen](https://github.com/Shahab-Malikk/BreakOut-Game-Java-/blob/main/screenshots/p3.jpg?raw=true)
+
 
 
 
